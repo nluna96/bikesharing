@@ -18,7 +18,8 @@ From the customers who use Citi Bike services above is a breakdown of their gend
 #### Checkout Times for Users
 ![Image2](./images/checkout_times_for_users.png)
 
-In the visualization above it can be seen that around 5 AM most bikes are available for all 3 genders. After 9 AM the number of bikes available start to decline for males and females. While unknowns no major peaks or declines in checkout times.
+The visualization above shows that peak checkout time for both males and females is 5 while unknowns do not have a peak checkout time.
+
 
 #### Trips by Weekday per Hour
 ![Image4](./images/trips_by_weekday_per_hour.png)
