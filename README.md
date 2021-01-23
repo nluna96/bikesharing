@@ -1,5 +1,6 @@
 # bikesharing
 ## Over view of the analysis
+The purpose of this analysis is to better understand NYC citibike data. For this analysis citibike data was used in Tableau, a visulization software to break down the data and analyse trends in a form that many people can understand visualizations. From this analysis we will determine if a similar service will be profitable in other cities.
 
 ## Results
 [Link to my Story](https://public.tableau.com/profile/noel.luna3290#!/vizhome/Module14Challenge_16113768033450/Story1?publish=yes)
