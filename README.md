@@ -35,7 +35,7 @@ From the data above it can be seen that males are the most active members during
 
 Male subscribers are the most active community throughout the weekdays, with Thursday being their most active day. Female subscribers and unknown subscribers have no clear preferred day. Furthermore, for all three customer genders, there is no preferred day on the weekday, all weekdays look similar for the three genders.
 
-#### Tableau Story
+### Tableau Story
 [Link to my Story](https://public.tableau.com/profile/noel.luna3290#!/vizhome/Module14Challenge_16113768033450/Story1?publish=yes)
 
 ## Summary
