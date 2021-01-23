@@ -1,7 +1,7 @@
 
 # bikesharing
 ## Overview of the analysis
-The purpose of this analysis is to better understand NYC Citi Bike data. For this analysis, Citi Bike data was used in Tableau, a visualization software to break down the data and analyze trends in a form that many people can understand visualizations. From this analysis, we will determine if a similar service will be profitable in other cities.
+The purpose of this analysis is to better understand NYC Citi Bike data. For this analysis, Citi Bike data was used in Tableau, a visualization software to break down the data and analyze trends in a form that many people can understand. From this analysis, we will determine if a similar service will be profitable in other cities.
 
 ## Results
 
