@@ -27,15 +27,17 @@ The data above shows that most activity happens between 7AM - 9AM and 4PM - 7PM 
 #### Trip by Gender(Weekday per Hour)
 ![Image3](./images/trips_by_gender_weekday_per_hour.png)
 
+From the data above it can be seen that males are the most active members during the busiest times. Thurdays afternoon rides are the highest for them, while females are fairly constant with no obvious busy times. Unknowns are similar to females, they have no obvious busy time throughtout the week.
 
-
-From the data above it can be seen that males are the most active 
-
-#### Trips by Gender by Weekday
+#### User Trips by Gender by Weekday
 ![Image5](./images/user_trips_by_gender_by_weekday.png)
+
+Male subscribers are the overall most active community throughtout the weedays, with Thursday being their most active day. Female subscribers and unknown subscribers have no clear preffered day. Furthermore, for all three customer genders there are no preferred day in the weekday, all weekdays look similar for the three genders.
 
 #### Tableau Story
 [Link to my Story](https://public.tableau.com/profile/noel.luna3290#!/vizhome/Module14Challenge_16113768033450/Story1?publish=yes)
 
 ## Summary
+
+
 Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
